@@ -19,6 +19,9 @@ public class FeetToMeters {
 
         window.setLocationRelativeTo(null);
 
+        button1.addActionListener(new Button1Listener());
+        button2.addActionListener(new Button2Listener());
+
         panel.add(button1);
         panel.add(button2);
 
