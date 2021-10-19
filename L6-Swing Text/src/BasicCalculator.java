@@ -12,6 +12,7 @@ public class BasicCalculator {
 
     NO POP-UPS
      */
+
     static JTextField inputField1;
     static JTextField inputField2;
     static JLabel resultLabel;
